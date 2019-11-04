@@ -509,7 +509,7 @@ $(function() {
   Plugin.prototype.fingerprint = function () {
     var canvas = document.createElement('canvas')
     var ctx = canvas.getContext('2d')
-    var txt = 'https://zammad.com'
+    var txt = 'https://parastechnology.com'
     ctx.textBaseline = 'top'
     ctx.font = '12px \'Arial\''
     ctx.textBaseline = 'alphabetic'

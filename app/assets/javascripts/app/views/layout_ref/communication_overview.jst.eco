@@ -14,7 +14,7 @@
     >
       <small>Ticket# <span class="ticket-number">1002</span></small>
       <div class="ticket-title flex">
-        <h1 contenteditable="true" class="ticket-title-update" data-placeholder="Enter Title...">Welcome to Zammad! We want to entertain you and your whole family!</h1>
+        <h1 contenteditable="true" class="ticket-title-update" data-placeholder="Enter Title...">Welcome to HelpZip! We want to entertain you and your whole family!</h1>
       </div>
       <div class="pagination-counter">
         <span class="pagination-item-current">1</span>/<span class="pagination-total-items">36</span>
@@ -34,7 +34,7 @@
       <div class="flex vertical center">
         <span class="avatar avatar--unique user-popover size-50" data-id="2" style="background-position: -92.79607555375712px -106.24902447601627px;" data-original-title="" title="">NB</span>
         <div class="ticket-title">
-          <h1 contenteditable="true" class="ticket-title-update" data-placeholder="Enter Title...">Welcome to Zammad! We want to entertain you and your whole family!</h1>
+          <h1 contenteditable="true" class="ticket-title-update" data-placeholder="Enter Title...">Welcome to HelpZip! We want to entertain you and your whole family!</h1>
         </div>
         <div class="ticket-meta">
           <small class="task-subline">Ticket# <span class="ticket-number">10001</span> - erstellte <span class="humanTimeFromNow" data-time="2014-07-11T10:10:32.000Z" title="11.07.2014 12:10">11.07.2014</span>
@@ -48,9 +48,9 @@
         <div class="article-meta-clip top">
           <div class="article-content-meta top hide">
             <div class="article-meta top">
-              <div class="horizontal article-meta-row" title="From: Zammad Feedback <feedback@zammad.org>">
+              <div class="horizontal article-meta-row" title="From: HelpZip Feedback <feedback@zammad.org>">
                 <div class="article-meta-key u-textTruncate">From</div>
-                <div class="article-meta-value flex u-textTruncate">Zammad Feedback &lt;feedback@zammad.org&gt;</div>
+                <div class="article-meta-value flex u-textTruncate">HelpZip Feedback &lt;feedback@zammad.org&gt;</div>
               </div>
             </div>
           </div>
@@ -63,7 +63,7 @@
               <div class="textBubble-content">
 Welcome!
 <br/>
-Thank you for installing Zammad.<br/>
+Thank you for installing HelpZip.<br/>
 <br/>
 You will find updates and patches at <a href="https://zammad.org/" title="https://zammad.org/" target="_blank">https://zammad.org/</a>. Online<br/>
 documentation is available at <a href="https://zammad.org/documentation/" title="https://zammad.org/documentation/" target="_blank">https://zammad.org/documentation/</a>. Get involved<br/>

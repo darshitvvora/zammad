@@ -13,7 +13,7 @@
       </div>
       <h2><%- @T('Mode') %></h2>
     </div>
-    <p>⚠ <%- @T('Enable or disable the maintenance mode of Zammad. If enabled, _all non-administrators get logged out_ and _only administrators can start a new session_.') %></p>
+    <p>⚠ <%- @T('Enable or disable the maintenance mode of HelpZip. If enabled, _all non-administrators get logged out_ and _only administrators can start a new session_.') %></p>
   </div>
 
   <div class="settings-entry">
